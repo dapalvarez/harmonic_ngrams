@@ -7,9 +7,9 @@ nltk
 sklearn
 
 # Run
-python create_ngr.py  
-python run_model.py  
-python run_model_best.py (for best results)
+python process.py  
+python run.py  
+python run_best.py (for best results)
 
 # List of compositions
 This info is taken from https://www.musical-style-recognition.net/?Datasets___PILOT-1.0 from the paper "Musical style recognition—a quantitative approach" of Peter van Kranenburg and Eric Backer.
