@@ -1,5 +1,5 @@
 # harmonic_ngrams
-Repository for the manuscript "Multi-instrument n-grams for composer classification"
+Repository for the manuscript "Multi-instrument n-grams for composer classification". DOI: 10.5281/zenodo.10411059
 
 # Lib
 python 3  
